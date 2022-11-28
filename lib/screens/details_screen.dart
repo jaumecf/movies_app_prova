@@ -98,7 +98,7 @@ class _PosterAndTitile extends StatelessWidget {
                 children: [
                   const Icon(Icons.star_outline, size: 15, color: Colors.grey),
                   const SizedBox(width: 5),
-                  Text('Nota mitjana', style: textTheme.caption),
+                  Text('Nota total', style: textTheme.caption),
                 ],
               )
             ],
